@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DiploClaseA</string>
+    <string name="btn_dos">:: BOTON ::</string>
+    <string name="name_intent">Nombre</string>
+    <string name="ingrese_nombre">Ingrese Nombre</string>
+    <string name="vaina">vaina visibility</string>
+
+
+    <string-array name="animals_array">
+        <item>Leon</item>
+        <item>Burra</item>
+        <item>Tortuga</item>
+        <item>Tiburón</item>
+        <item>Oso</item>
+    </string-array>
+    <string-array name="sincronizar_apps">
+        <item>Facebook</item>
+        <item>Google</item>
+        <item>Twitter</item>
+    </string-array>
+</resources>
